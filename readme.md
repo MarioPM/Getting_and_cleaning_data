@@ -14,7 +14,7 @@ The repository contains the following files:
 * The `CodeBook.md` file describes the data, the meaning of the variables and the transformations 
 performed to clean up the data.
 * The `run_analysis.R` contains all the code following all the steps indicated in
-the project's guide. Its read the files `features.txt` and àctivity_labels.txt`
+the project's guide. Its read the files `features.txt` and `activity_labels.txt`
 from the current directory and the sets contained in the `train` and `test` folders.
 * The `tidy_data_means` contains the relevant averages required n 
 a tidy file using the specifications of the project's guide.
